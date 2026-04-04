@@ -1,0 +1,2 @@
+[console_scripts]
+jtrader = jugaad_trader.cli:cli
