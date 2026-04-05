@@ -1,0 +1,4 @@
+Model,MAE,RMSE
+Naive (last value),0.063,0.085
+Rolling Mean (5d),0.0636,0.0816
+TFT (your model),0.0153 (val loss),TBD
